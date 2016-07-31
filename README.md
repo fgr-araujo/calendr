@@ -1,2 +1,2 @@
 # calendr
-A side panel with calendar tool for fast choose
+This VueJS component meets my need for a quick choice calendar
